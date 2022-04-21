@@ -3,3 +3,4 @@ function result(x,y){
 }
 
 result(5,6)
+let number=17
